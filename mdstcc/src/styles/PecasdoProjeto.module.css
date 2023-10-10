@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap');
+
+.index {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.index .div {
+  background-color: #ffffff;
+  height: 2499px;
+  position: relative;
+  width: 1440px;
+}
+
+.index .text_wrapper {
+  color: #5483bf;
+  font-family: "Dela Gothic One", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 138px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 52px;
+  width: 193px;
+
+  /* color: #5483bf;
+  font-family: "Dela Gothic One", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 193px; */
+}
+
+.index .logod {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100px;
+  left: 25px;
+  position: absolute;
+  top: 0;
+  width: 101px;
+}
+
+
+.index .icone_pyro_bot {
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 101px;
+  height: 100px;
+}
+
+.index .overlap_group {
+  background-color: #2949a6;
+  height: 2379px;
+  left: 0;
+  position: absolute;
+  top: 120px;
+  width: 1440px;
+}
+
+.index .text_wrapper_2 {
+  color: #ffffff;
+  font-family: "Dela Gothic One", Helvetica;
+  font-size: 45px;
+  font-weight: 400;
+  left: 487px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 105px;
+  width: 466px;
+}
+
+.index .buzzer {
+  height: 371px;
+  left: 116px;
+  object-fit: cover;
+  position: absolute;
+  top: 306px;
+  width: 313px;
+  border-radius: 20px;
+}
+
+.index .modulomq {
+  height: 371px;
+  left: 563px;
+  object-fit: cover;
+  position: absolute;
+  top: 306px;
+  width: 313px;
+  border-radius: 20px;
+}
+
+.index .led {
+  height: 371px;
+  left: 116px;
+  object-fit: cover;
+  position: absolute;
+  top: 827px;
+  width: 313px;
+  border-radius: 20px;
+}
+
+.index .jumper_macho_femea {
+  height: 371px;
+  left: 563px;
+  object-fit: cover;
+  position: absolute;
+  top: 827px;
+  width: 313px;
+  border-radius: 20px;
+}
+
+.index .modulo {
+  height: 371px;
+  left: 1010px;
+  object-fit: cover;
+  position: absolute;
+  top: 827px;
+  width: 313px;
+  border-radius: 20px;
+}
+
+.index .protoboard {
+  height: 371px;
+  left: 116px;
+  object-fit: cover;
+  position: absolute;
+  top: 1348px;
+  width: 313px;
+  border-radius: 20px;
+}
+
+.index .jumperf {
+  height: 372px;
+  left: 563px;
+  object-fit: cover;
+  position: absolute;
+  top: 1348px;
+  width: 313px;
+  border-radius: 20px;
+}
+
+.index .resistoor {
+  height: 371px;
+  left: 1010px;
+  object-fit: cover;
+  position: absolute;
+  top: 1348px;
+  width: 313px;
+  border-radius: 20px;
+}
+
+.index .arduino {
+  height: 371px;
+  left: 116px;
+  object-fit: cover;
+  position: absolute;
+  top: 1869px;
+  width: 313px;
+  border-radius: 20px;
+}
+
+.index .resistor {
+  height: 370px;
+  left: 541px;
+  object-fit: cover;
+  position: absolute;
+  top: 1870px;
+  width: 335px;
+  border-radius: 20px;
+}
+
+.index .element {
+  height: 371px;
+  left: 1010px;
+  object-fit: cover;
+  position: absolute;
+  top: 306px;
+  width: 313px;
+  border-radius: 20px;
+}
+
+.index .botao {
+  height: 371px;
+  left: 1010px;
+  object-fit: cover;
+  position: absolute;
+  top: 1870px;
+  width: 313px;
+  border-radius: 20px;
+}

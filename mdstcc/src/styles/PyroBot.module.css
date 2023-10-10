@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap');
+
+.index {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.index .div {
+  background-color: #ffffff;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.index .overlap {
+  height: 46px;
+  left: 138px;
+  position: absolute;
+  top: 49px;
+  width: 193px;
+}
+
+.index .text_wrapper {
+  color: #5483bf;
+  font-family: "Dela Gothic One", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 193px;
+}
+
+.index .overlap_group {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100px;
+  left: 25px;
+  position: absolute;
+  top: 0;
+  width: 101px;
+}
+
+.index .icones_de_vetor_de {
+  height: 100px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 101px;
+}
+
+.index .overlap_2 {
+  background-color: #73b2d9bf;
+  height: 904px;
+  left: 0;
+  position: absolute;
+  top: 117px;
+  width: 1440px;
+}
+
+.index .div_wrapper {
+  background-color: #2949a687;
+  border-radius: 20px;
+  height: 215px;
+  left: 703px;
+  position: absolute;
+  top: 141px;
+  width: 665px;
+}
+
+.index .p {
+  color: #000000;
+  font-family: "Dela Gothic One", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+  width: 548px;
+}
+
+.index .overlap_3 {
+  background-color: #2949a687;
+  border-radius: 20px;
+  height: 198px;
+  left: 703px;
+  position: absolute;
+  top: 475px;
+  width: 665px;
+}
+
+.index .text_wrapper_2 {
+  color: #000000;
+  font-family: "Dela Gothic One", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+  width: 579px;
+}
+
+.index .image_wrapper {
+  background-color: #2949a687;
+  border-radius: 40px;
+  height: 532px;
+  left: 42px;
+  position: absolute;
+  top: 141px;
+  width: 553px;
+}
+
+.index .image {
+  height: 450px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 482px;
+  border-radius: 40px;
+}

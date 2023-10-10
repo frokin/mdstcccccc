@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap');
+
+.index {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.index .div {
+  background-color: #ffffff;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.index .text_wrapper {
+  color: #5483bf;
+  font-family: "Dela Gothic One", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 138px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 52px;
+  width: 193px;
+  
+}
+
+.index .icone_pyro_bot {
+  height: 100px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 101px;
+}
+
+.index .overlap_group {
+  background-color: #2949a6;
+  height: 904px;
+  left: 0;
+  position: absolute;
+  top: 120px;
+  width: 1440px;
+}
+
+.index .logod {
+  /* background-image: url(https://cdn.animaapp.com/projects/6521ab18d9cb42a4b3df616b/releases/6521ac5d62f75e9352093c3e/img/iconepyrobot.png); */
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100px;
+  left: 25px;
+  position: absolute;
+  top: 0;
+  width: 101px;
+}
+
+.index .iconeinsta {
+  height: 124px;
+  left: 641px;
+  object-fit: cover;
+  position: absolute;
+  top: 721px;
+  width: 157px;
+}
+
+.index .img {
+  height: 124px;
+  left: 166px;
+  object-fit: cover;
+  position: absolute;
+  top: 721px;
+  width: 157px;
+}
+
+.index .iconeinsta_2 {
+  height: 124px;
+  left: 1116px;
+  object-fit: cover;
+  position: absolute;
+  top: 721px;
+  width: 157px;
+}
+
+.index .text_wrapper_2 {
+  color: #000000;
+  font-family: "Dela Gothic One", Helvetica;
+  font-size: 45px;
+  font-weight: 400;
+  left: 530px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 74px;
+}
+
+.index .sofia {
+  height: 429px;
+  left: 76px;
+  object-fit: cover;
+  position: absolute;
+  top: 237px;
+  width: 337px;
+  border-radius: 40px;
+}
+
+.index .iza {
+  height: 429px;
+  left: 551px;
+  object-fit: cover;
+  position: absolute;
+  top: 237px;
+  width: 337px;
+  border-radius: 40px;
+}
+
+.index .andre {
+  height: 429px;
+  left: 1026px;
+  object-fit: cover;
+  position: absolute;
+  top: 237px;
+  width: 337px;
+  border-radius: 40px;
+}

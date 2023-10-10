@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap');
+
+.pyrobot {
+    position: absolute;
+    top: 3.31rem;
+    left: 8.63rem;
+    display: inline-block;
+    width: 12.06rem;
+    height: 2.88rem;
+  }
+  
+  .iconepyrobot {
+    position: absolute;
+    top: 0.19rem;
+    left: 1.56rem;
+    width: 6.31rem;
+    height: 6.25rem;
+    object-fit: cover;
+    cursor: pointer;
+  }
+  
+  .resultados-child {
+    position: absolute;
+    top: 7.5rem;
+    left: 0;
+    background-color: #2949a6;
+    width: 90rem;
+    height: 56.5rem;
+  }
+  
+  .processosresultados {
+    position: absolute;
+    top: 11.19rem;
+    left: 25.81rem;
+    font-size: 2.81rem;
+    color: #000;
+  }
+  
+  .resultados {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 64rem;
+    overflow: hidden;
+    text-align: left;
+    font-size: 2.19rem;
+    color: #5483bf;
+    font-family: "Dela Gothic One";
+  }
+  

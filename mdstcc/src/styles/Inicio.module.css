@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap');
+  
+  .index {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .index .div {
+    background-color: #ffffff;
+    height: 1163px;
+    overflow: hidden;
+    position: relative;
+    width: 1393px;
+  }
+  
+  .index .text_wrapper {
+    color: #5483bf;
+    font-family: "Dela Gothic One", Helvetica;
+    font-size: 35px;
+    font-weight: 400;
+    left: 138px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 52px;
+    width: 193px;
+  }
+  
+  .index .icone_pyro_bot {
+    height: 100px;
+    left: 25px;
+    object-fit: cover;
+    position: absolute;
+    top: 3px;
+    width: 101px;
+  }
+  
+  .index .overlap {
+    background-color: #2949a6;
+    height: 904px;
+    left: 0;
+    position: absolute;
+    top: 120px;
+    width: 1440px;
+  }
+  
+  .index .text_wrapper_2 {
+    color: #ffffff;
+    font-family: "Dela Gothic One", Helvetica;
+    font-size: 55px;
+    font-weight: 400;
+    left: 138px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 122px;
+    width: 504px;
+  }
+  
+  .index .overlap_group {
+    height: 865px;
+    left: 126px;
+    position: absolute;
+    top: 39px;
+    width: 1267px;
+  }
+  
+  .index .p {
+    color: #ffffff;
+    font-family: "Dela Gothic One", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 239px;
+    width: 817px;
+  }
+  
+  .index .garotodeprograma {
+    height: 865px;
+    left: 583px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 684px;
+  }
+  
+  .index .text_wrapper_3 {
+    color: #ffffff;
+    font-family: "Dela Gothic One", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 126px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 595px;
+    width: 547px;
+  }
+  
+  .index .overlap_group_2 {
+    background-color: #73b2d9bf;
+    height: 139px;
+    left: -3px;
+    position: absolute;
+    top: 1024px;
+    width: 1396px;
+  }
+  
+  .index .div_wrapper {
+    background-color: #d9d9d9;
+    border-radius: 50px;
+    height: 71px;
+    left: 0;
+    position: absolute;
+    top: 35px;
+    width: 240px;
+  }
+  
+  .index .text_wrapper_4 {
+    color: #000000;
+    font-family: "Dela Gothic One", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 60px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 17px;
+    width: 121px;
+  }
+  
+  .index .overlap_2 {
+    background-color: #d9d9d9;
+    border-radius: 50px;
+    height: 71px;
+    left: 1151px;
+    position: absolute;
+    top: 35px;
+    width: 241px;
+  }
+  
+  .index .text_wrapper_5 {
+    color: #000000;
+    font-family: "Dela Gothic One", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 46px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 16px;
+    white-space: nowrap;
+    width: 176px;
+  }
+  
+  .index .overlap_3 {
+    background-color: #d9d9d9;
+    border-radius: 50px;
+    height: 71px;
+    left: 866px;
+    position: absolute;
+    top: 35px;
+    width: 240px;
+  }
+  
+  .index .text_wrapper_6 {
+    color: #000000;
+    font-family: "Dela Gothic One", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 17px;
+    width: 128px;
+  }
+  
+  .index .overlap_4 {
+    background-color: #d9d9d9;
+    border-radius: 50px;
+    height: 71px;
+    left: 576px;
+    position: absolute;
+    top: 35px;
+    width: 240px;
+  }
+  
+  .index .text_wrapper_7 {
+    color: #000000;
+    font-family: "Dela Gothic One", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 16px;
+    width: 221px;
+  }
+  
+  .index .overlap_5 {
+    background-color: #d9d9d9;
+    border-radius: 50px;
+    height: 71px;
+    left: 286px;
+    position: absolute;
+    top: 32px;
+    width: 240px;
+  }
+  
+  .index .text_wrapper_8 {
+    color: #000000;
+    font-family: "Dela Gothic One", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 18px;
+  }
+
+  .overlap_group_2 a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 22px;
+    font-style: 64px;
+    font-weight: 400;
+    white-space: nowrap;
+    /* by ajudinha do meubblinduuuuuuu/derick */
+  }
+  
